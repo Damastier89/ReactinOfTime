@@ -1,0 +1,13 @@
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.shape {
+    width: 150px;
+    height: 150px;
+    background-color: crimson;
+    display: none;
+    position: relative;
+}
+
